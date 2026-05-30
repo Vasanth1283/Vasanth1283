@@ -145,8 +145,8 @@ public class VasanthaPandian {
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [🤖 AI Email Reply Generator](https://github.com/vasanthapandian) | React.js · Spring Boot · Google Gemini API · Chrome Extension (Manifest V3) · REST APIs | Built an AI-powered email assistant with a Chrome Extension that captures email content and injects real-time AI-generated replies using the Gemini API |
-| [👥 Employee Management System](https://github.com/vasanthapandian) | Java · JSP/Servlets · JDBC · MySQL · Tomcat | CRUD-based web app with DAO pattern for clean DB operations; deployed on Apache Tomcat with interactive JSP UI |
+| [🤖 AI Email Reply Generator](https://github.com/Vasanth1283/Email-Generation) | React.js · Spring Boot · Google Gemini API · Chrome Extension (Manifest V3) · REST APIs | Built an AI-powered email assistant with a Chrome Extension that captures email content and injects real-time AI-generated replies using the Gemini API |
+| [👥 Employee Management System](https://github.com/Vasanth1283/Employee-management-system) | Java · JSP/Servlets · JDBC · MySQL · Tomcat | CRUD-based web app with DAO pattern for clean DB operations; deployed on Apache Tomcat with interactive JSP UI |
 
 </div>
 
